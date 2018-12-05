@@ -1,4 +1,4 @@
-#KeyfinderSMD
+# KeyfinderSMD
 
 A simple small key-finder for your keys. If you whistle the key-finder beeps.
 
