@@ -1,0 +1,10 @@
+#Temporary files
+*.0000
+*.bak
+*-bak
+*.bck
+_autosave-*
+*.tmp
+
+# Netlist files (exported from Eeschema)
+*.net
