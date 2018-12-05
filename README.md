@@ -1,6 +1,6 @@
 #KeyfinderSMD
 
-A simple small keyfinder for your keys. If you whistle th keyfinder beeps.
+A simple small key-finder for your keys. If you whistle the key-finder beeps.
 
 ## Bill of Material
 TBD
